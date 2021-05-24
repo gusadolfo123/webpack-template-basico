@@ -1,0 +1,17 @@
+body {
+  background-color: rgb(98, 98, 98);
+  color: whitesmoke;
+}
+
+.container {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  width: 1000px;
+  margin: 0 auto;
+}
+
+#myCanvas {
+  background-color: rgb(190, 190, 190);
+}
